@@ -2,6 +2,11 @@
 type: reference
 title: "Transport Fallback Decision Tree"
 status: evergreen
+created: 2026-05-17
+tags:
+  - reference
+  - transport
+  - v1.7
 related:
   - "[[wiki-cli]]"
   - "[[mcp-setup]]"
