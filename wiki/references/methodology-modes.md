@@ -68,6 +68,6 @@ After setting mode:
 ## Cross-reference
 
 Full guide: [[methodology-modes-guide]]
-Skill: [[wiki-mode]] (`skills/wiki-mode/SKILL.md`)
+Skill: [[skills/wiki-mode/SKILL|wiki-mode]]
 Router: `scripts/wiki-mode.py`
 Setup: `bash bin/setup-mode.sh`
