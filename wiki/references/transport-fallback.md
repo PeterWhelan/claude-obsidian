@@ -8,7 +8,7 @@ tags:
   - transport
   - v1.7
 related:
-  - "[[wiki-cli]]"
+  - "[[skills/wiki-cli/SKILL|wiki-cli]]"
   - "[[mcp-setup]]"
 updated: 2026-05-17
 ---

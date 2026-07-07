@@ -10,7 +10,7 @@ created: 2026-05-17
 updated: 2026-05-17
 related:
   - "[[methodology-modes-guide]]"
-  - "[[wiki-mode]]"
+  - "[[skills/wiki-mode/SKILL|wiki-mode]]"
 ---
 
 # Methodology Modes — Quick Decision Tree
